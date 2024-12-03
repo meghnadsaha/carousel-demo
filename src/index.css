@@ -1,0 +1,42 @@
+
+/*carousel-caption position */
+.carousel-caption {
+  position: relative !important;
+  bottom: 10.25rem!important;
+  left: 0%!important;
+  color: #FFFFFF!important;
+  text-align: center!important;
+  background-color: rgba(18, 1, 1, 0.897); /* White with 50% opacity */
+}
+
+.carousel-indicators button{
+height: 10px !important;
+width: 10px !important;
+border-radius: 50% !important;
+margin-bottom: -4% !important;
+}
+
+
+ .testimonial-carousel a {
+  top: 22% !important;
+  width: 45px !important;
+  height: 45px;
+  color: #FFFFFF;
+  background: #fe5d37 !important;
+  border-radius: 45px;
+  font-size: 20px;
+  opacity: 1 !important;
+} 
+
+.carousel-control-next{
+  right: -5% !important;
+}
+
+ .carousel-control-prev{
+  left: -5% !important;
+
+}
+
+.carousel-indicators {
+  bottom: 105px !important;
+}
