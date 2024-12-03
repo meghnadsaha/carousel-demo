@@ -356,6 +356,7 @@ This may be done to give the buttons a more prominent placement or to adjust the
 ```
 
 - **`bottom: 105px`**: This moves the carousel indicator dots down by 105px from the bottom of their container (adjusting them vertically). The `!important` ensures that this style takes precedence over other conflicting styles.
+- **`Carousal Images Link`**: https://github.com/meghnadsaha/social-network-template/tree/master/src/assets/photos
 
 ---
 
